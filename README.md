@@ -473,12 +473,14 @@ class Ejemplo:
         self.variable_instancia_publica = valor_publico
 ````
 ___
-# Tamaño reducido
+**Tamaño reducido**
+
 Para nombrar las clases, si el nombre es ambiguo puede ser indicativo de 
 *smell code*. Es mejor renombrar a algo más específico y separar en varias
 clases.
 ___
-# Tus clases deben cumplir con los principios SOLID
+**Tus clases deben cumplir con los principios SOLID**
+
 Esta sección es muy extensa, que está documentada al detalle en el repositorio
 https://github.com/skvkel/SOLID-Principles
 
